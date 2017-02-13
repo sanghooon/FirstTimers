@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b5878818dba1744e916c60b26abb239
+timeCreated: 1486836274
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - btntexture: {instanceID: 0}
+  - LogoTexture: {instanceID: 0}
+  - MobiliyaTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
